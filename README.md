@@ -1,0 +1,4 @@
+crowdcrawler
+============
+
+A crowdsourcing crawler
